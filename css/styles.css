@@ -1,0 +1,53 @@
+
+.root{
+    --primery-text-color: #757575;
+    --title-text-color: #212121;
+}
+.body{color: #ffffff;}
+
+.logo{color: #000000; 
+}
+.first-logo{color: #2196F3;}
+
+.studio{color: #2196F3;}
+.studio:hover, .studio:focus
+{color: orange;}
+
+.portfolio, .contacts{color:#000000;}
+.header-mail, .header-tell{color: #757575;}
+
+
+
+
+.header-title{background-color: #2F303A;}
+.header-text{color: #FFFFFF;}
+
+.button{color: #ffffff;}
+.button{background-color: #2196F3;}
+
+ul{ list-style: none;}
+
+.advences-title{color: #212121;}
+
+.advences-text{color: #757575;}
+
+.work{color: #212121;}
+
+.workers{color:#212121;}
+
+.workers-squad{color: #212121;}
+
+.profession{color: #757575;}
+
+.footer{
+    background-color: #2F303A;
+}
+
+.footer-logo{color: #ffffff;}
+.first-footer-logo{color: #2196F3;}
+
+.addres-office{color: #ffffff;}
+.mail,
+.tell{ 
+   color:#ffffff;
+}
